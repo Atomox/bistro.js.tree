@@ -1,0 +1,24 @@
+{
+  "name": "bistro.js.tree",
+  "version": "0.0.2",
+  "description": "A simple tree datastructure made for bistro.js.",
+  "main": "bistro.js.tree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bistro.js.tree.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atomox/bistro.js.git"
+  },
+  "keywords": [
+    "tree",
+    "data strucuture"
+  ],
+  "author": "Atomox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atomox/bistro.js/issues"
+  },
+  "homepage": "https://github.com/Atomox/bistro.js#readme"
+}
