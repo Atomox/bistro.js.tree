@@ -1,6 +1,6 @@
 #Bistro.js Tree
 
-** A simple tree datastructure **
+**A simple tree datastructure**
 
 This is a simple tree datastrucuture, and common dependency for Bistro.js and PrepCook.js.
 
